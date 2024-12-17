@@ -2,5 +2,4 @@
 ## Author: Thomas Dunnington
 ## Professor: Eric Frew
 
-This repo contains all of the code for my ASEN 5128 final project: Small Uncrewed Aircraft System Guidance, Navigation,
-and Control
+This repo contains all of the code for my ASEN 5128 final project: Small UAS RRT for Collision Avoidance in an Urban Environment
